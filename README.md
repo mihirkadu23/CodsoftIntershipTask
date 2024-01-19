@@ -1,1 +1,1 @@
-# CodsoftIntershipTask
+# job-board
